@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\bin\Debug\net7.0\TelefonRehberi.exe
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\bin\Debug\net7.0\TelefonRehberi.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\bin\Debug\net7.0\TelefonRehberi.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\bin\Debug\net7.0\TelefonRehberi.dll
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\bin\Debug\net7.0\TelefonRehberi.pdb
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\obj\Debug\net7.0\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\obj\Debug\net7.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\obj\Debug\net7.0\TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\obj\Debug\net7.0\TelefonRehberi.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\obj\Debug\net7.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\obj\Debug\net7.0\TelefonRehberi.dll
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\obj\Debug\net7.0\refint\TelefonRehberi.dll
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\obj\Debug\net7.0\TelefonRehberi.pdb
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\obj\Debug\net7.0\TelefonRehberi.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\TelefonRehberi\obj\Debug\net7.0\ref\TelefonRehberi.dll
